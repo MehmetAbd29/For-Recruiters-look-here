@@ -12,6 +12,12 @@ I won't keep you any longer, thank you for reading this far and have fun :)
 
 The links:[
 
+{livepreview: "https://lucky-moxie-20e5aa.netlify.app/", description: "Cooking Recipes Logger App - React"},
+
+{livepreview: "https://magenta-cupcake-f7c0f1.netlify.app/", description: "Food Order App - React"},
+
+{livepreview: "https://codepen.io/mehmet-tayseer/pen/jOpKBGv", description: "Pin-Pong Vector Calculus with JavaScript"},
+
 {livepreview: "https://codepen.io/mehmet-tayseer/pen/dyjEpBR", description: "CSS keyframe animation with JS"},
 
 ]
