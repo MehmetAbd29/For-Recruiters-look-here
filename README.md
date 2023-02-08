@@ -12,6 +12,6 @@ I won't keep you any longer, thank you for reading this far and have fun :)
 
 The links:[
 
-{livepreview: https://codepen.io/mehmet-tayseer/pen/dyjEpBR, description: CSS keyframe animation with JS},
+{livepreview: "https://codepen.io/mehmet-tayseer/pen/dyjEpBR", description: "CSS keyframe animation with JS"},
 
 ]
