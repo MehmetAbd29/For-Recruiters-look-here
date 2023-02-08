@@ -10,7 +10,7 @@ thank you for taking the time to preview my repository. Two quick things I'd lik
 
 I won't keep you any longer, thank you for reading this far and have fun :)
 
-The links:[
+const projectLinks = [
 
 {livepreview: "https://lucky-moxie-20e5aa.netlify.app/", description: "Cooking Recipes Logger App - React"},
 
